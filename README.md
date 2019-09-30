@@ -5,7 +5,7 @@ This is an ongoing project which is about monitoring a certain area in Greece wh
 
 More specifically, I would like to use two different type of data. One dataset formed from an optical sensor and one from a SAR sensor. Ideally, the optical images would be downloaded from Visible Infrared Imaging Radiometer Suite VIIRS while Synthetic aperture radar images from Sentinel-1 program.
 
-'The ultimate goal is to build a model which autimaticly maps the flooded area and then use it on a time series satellite images in order to create a time series data set and then study the frequency of the flooding events and maybe correlate it with other environmental parameters (ex. like global worming).
+<i>The ultimate goal is to build a model which autimaticly maps the flooded area and then use it on a time series satellite images in order to create a time series data set and then study the frequency of the flooding events and maybe correlate it with other environmental parameters (ex. like global worming).</i>
 
 ## About the Sensors 
 
